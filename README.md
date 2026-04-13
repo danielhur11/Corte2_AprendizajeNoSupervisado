@@ -97,5 +97,5 @@ Sin embargo, el análisis de clústeres mostró que también existen segmentos d
 
 ## Autor
 
-**[Tu nombre completo]**  
-**[Tu código]**
+**Daniel Hurtado Londoño**  
+**272280**
